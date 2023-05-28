@@ -1,11 +1,12 @@
 ## About @Imzafish
 - 👋 Hi, I’m @Imzafish
-- 🌱 I’m currently learning Python, Java, Javascript, HTML and C++. 
+- 🌱 I’m currently learning Python, Java, Javascript, HTML and C++.
 
 ### Projects I'm working on
  | Project and the Coding Language| Status      |
  |--------------------------------|-------------|
  | Text adv in Python with friends| Done!!      |
+ | Discord Bot in Python          | Unstarted   |
  | Making Pong in Python          | In progress | 
  | Making Space Invaders in Python| In progress |
 
