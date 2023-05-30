@@ -5,12 +5,12 @@
 ### Progress of learning coding languages
  | Language | % |
  |----------|---|
- | Python   |32 |
- | Java     |0  |
- |Javascript|0  |
- |C         |2  |
- |C++       |4  |
- |HTML      |45 |
+ | Python   |32%|
+ | Java     |0% |
+ |Javascript|0% |
+ |C         |2% |
+ |C++       |4% |
+ |HTML      |45%|
  
  
 
