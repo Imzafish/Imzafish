@@ -1,7 +1,12 @@
 ## About @Imzafish
 - 👋 Hi, I’m @Imzafish
-- 🌱 I’m currently learning Python, Java, Javascript, C ,C# and C++.
-- I also want to learn two "aethestic" languages; HTML and Markdown.
+- 🌱 I’m currently learning Python, Java, Javascript, C, C++ and HTML.
+
+### Progress of learning coding languages
+ |Coding Language| Status|
+ |---------------|-------|
+ | Python        |   🪫 |
+ 
 
 ### Projects I'm working on
  | Project and the Coding Language| Status      |
