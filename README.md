@@ -3,9 +3,15 @@
 - 🌱 I’m currently learning Python, Java, Javascript, C, C++ and HTML.
 
 ### Progress of learning coding languages
- |Coding Language| Status|
- |---------------|-------|
- | Python        |   🪫 |
+ | Language | % |
+ |----------|---|
+ | Python   |32 |
+ | Java     |0  |
+ |Javascript|0  |
+ |C         |2  |
+ |C++       |4  |
+ |HTML      |45 |
+ 
  
 
 ### Projects I'm working on
