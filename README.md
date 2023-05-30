@@ -1,11 +1,12 @@
 ## About @Imzafish
 - 👋 Hi, I’m @Imzafish
 - 🌱 I’m currently learning Python, Java, Javascript, C ,C# and C++.
-- I also want to learn two aethestic languages; HTML and Markdown.
+- I also want to learn two "aethestic" languages; HTML and Markdown.
 
 ### Projects I'm working on
  | Project and the Coding Language| Status      |
  |--------------------------------|-------------|
+ | Rickroll software which spams  |  Unstarted  |
  | Text adv in Python with friends| Done!!      |
  | Discord Bot in Python          | Unstarted   |
  | Making Pong in Python          | In progress | 
