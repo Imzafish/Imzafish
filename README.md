@@ -22,6 +22,7 @@
  | Discord Bot in Python          | Unstarted   |
  | Making Pong in Python          | In progress | 
  | Making Space Invaders in Python| In progress |
+ | Make a Naughts and Crosses.py  | In progress |
 
 <!---
 Imzafish/Imzafish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
