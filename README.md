@@ -10,7 +10,7 @@
  |Javascript|0% |
  |C         |2% |
  |C++       |4% |
- |HTML      |45%|
+ |HTML      |5% |
  
  
 
