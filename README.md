@@ -1,15 +1,14 @@
 ## About @Imzafish
 - 👋 Hi, I’m @Imzafish
-- 🌱 I’m currently learning Python, Java, Javascript, C, C++ and HTML.
+- 🌱 I’m currently learning Python, Javascript, C, C++ and HTML.
 
 ### Progress of learning coding languages
  | Language | % |
  |----------|---|
  | Python   |32%|
- | Java     |0% |
- |Javascript|0% |
- |C         |2% |
- |C++       |4% |
+ |Javascript|8% |
+ |C         |1% |
+ |C++       |2% |
  |HTML      |5% |
  
  
