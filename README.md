@@ -5,7 +5,7 @@
 ### Progress of learning coding languages
  | Language | % |
  |----------|---|
- | Python   |32%|
+ | Python   |43%|
  |Javascript|8% |
  |C         |1% |
  |C++       |2% |
