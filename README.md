@@ -16,7 +16,7 @@
 ### Projects I'm working on
  | Project and the Coding Language| Status      |
  |--------------------------------|-------------|
- | Rickroll software which spams  |  Unstarted  |
+ | Rickroll software which spams  |  DONE!!!!   |
  | Text adv in Python with friends| Done!!      |
  | Discord Bot in Python          | Unstarted   |
  | Making Pong in Python          | In progress | 
