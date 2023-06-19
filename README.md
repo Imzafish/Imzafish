@@ -18,7 +18,7 @@
  |--------------------------------|-------------|
  | Rickroll software which spams  |  DONE       |
  | Text adv in Python with friends| Done!!      |
- | Discord Bot in Python          | Unstarted   |
+ | Discord Bot in Python  x3      | Unstarted   |
  | Making Pong in Python          | In progress | 
  | Making Space Invaders in Python| In progress |
  | Make a Naughts and Crosses.py  | In progress |
