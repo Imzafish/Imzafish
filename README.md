@@ -20,7 +20,9 @@
  | Making Pong in Python          | In progress | 
  | Making Space Invaders in Python| In progress |
  | Make a Naughts and Crosses.py  | In progress |
- | 2 Sorting Algorithms           | In progress |
+ | 2 Sorting Algorithms           | DOne!!      |
+ |FNAF style game in Python       | Started     |
+ |A zombie apocalypse indie ginormous world- With like a custom map every time using  generation in python gulp| Started|
 
 <!---
 Imzafish/Imzafish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
