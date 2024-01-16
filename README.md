@@ -7,21 +7,15 @@
  |----------|---|
  | Python   |83%|
  |Javascript|2% |
- |C++       |0% |
  
- 
-
 ### Projects I'm working on
  | Project and the Coding Language| Status      |
  |--------------------------------|-------------|
- | Rickroll software which spams  | Debugging   |
- | Text adv in Python with friends| Done!!      |
- | Discord Bot in Python          | Debugging   |
+ | Rickroll software which spams  | Done!!      |
+ | Discord Bot in Python          |Complete redo|
  | Making Pong in Python          | In progress | 
  | Making Space Invaders in Python| In progress |
- | Make a Naughts and Crosses.py  | Debugging   |
- | 2 Sorting Algorithms           | DOne!!      |
- |FNAF style game in Python       | Scrapped     |
+ | Make a Naughts and Crosses.py  | DONE!!!    |
  |A zombie apocalypse indie ginormous world- With like a custom map every time using  generation in python gulp| Started|
 
 <!---
