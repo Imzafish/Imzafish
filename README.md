@@ -1,21 +1,13 @@
 ## About @Imzafish
 - 👋 Hi, I’m @Imzafish
 - 🌱 I’m currently learning Python and Javascript
-
-### Progress of learning coding languages
- | Language | % |
- |----------|---|
- | Python   |83%|
- |Javascript|2% |
  
 ### Projects I'm working on
  | Project and the Coding Language| Status      |
  |--------------------------------|-------------|
- | Rickroll software which spams  | Done!!      |
  | Discord Bot in Python          |Complete redo|
  | Making Pong in Python          | In progress | 
  | Making Space Invaders in Python| In progress |
- | Make a Naughts and Crosses.py  | DONE!!!    |
  |A zombie apocalypse indie ginormous world- With like a custom map every time using  generation in python gulp| Started|
 
 <!---
