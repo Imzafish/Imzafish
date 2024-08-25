@@ -7,7 +7,7 @@
  |--------------------------------|-------------|
  | Discord Bot in Python          |Complete redo|
  | Making Pong in Python          | In progress | 
- | A coding assesment about crypto| Starteed    |
+ | A coding assesment about crypto|    Done     |
  | Making Space Invaders in Python| In progress |
 
 
