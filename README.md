@@ -1,17 +1,23 @@
-## About @Imzafish
-- 👋 Hi, I’m @Imzafish
-- 🌱 I’m currently learning Python and Javascript
- 
-### Projects I'm working on
- | Project and the Coding Language| Status      |
- |--------------------------------|-------------|
- | Discord Bot in Python          |Complete redo|
- | Making Pong in Python          | In progress | 
- | A coding assesment about crypto|    Done     |
- | Making Space Invaders in Python| In progress |
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!)](https://git.io/typing-svg)
 
 
-<!---
-Imzafish/Imzafish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### [Portfolio Website](https://github.com/Riley-D-1)
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imzafish&theme=transparent&mode=yearly" />
+  <br> <br> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imzafish&theme=transparent&layout=compact" />
+</div>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
