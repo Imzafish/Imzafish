@@ -19,5 +19,4 @@
   <br> <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imzafish&theme=transparent&layout=compact" />
 </div>  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
